@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Magnus!;" />
 </h1>
 
-<h3 align="center">Hello and welcome to my GitHub page!</h3>
+<h3 align="center">Welcome to my GitHub page!</h3>
 
 <div align="center"> 
   <a href="mailto:maglinden@gmail.com">
